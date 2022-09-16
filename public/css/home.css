@@ -265,12 +265,12 @@ footer {
         display: flex;
         justify-content: space-between;
         margin-top: 50px;
-        gap: 20px;
+        gap: 25px;
     }
 
     .header_navbar ul {
         display: flex; 
-        gap: 10px;
+        gap: 20px;
     }
 
     .header_navbar ul li {
@@ -299,7 +299,7 @@ footer {
 
     .main_section_article {
         
-        width: 45%;
+        width: 65%;
     }
 
     .descripciones{
@@ -314,7 +314,7 @@ footer {
     }
 
     .main_section_article {
-        width: 22%;
+        width: 44%;
     }
     
 
@@ -323,8 +323,8 @@ footer {
     footer {
         display: grid;
         grid-template-columns: auto auto auto;           
-        padding: 10px;
-        gap: 10px; 
+        padding: 20px;
+        gap: 20px; 
     }
 
     footer section {
